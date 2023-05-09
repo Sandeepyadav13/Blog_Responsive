@@ -1,0 +1,38 @@
+.blog-img{
+    text-align: center;
+}
+.blog-img img {
+    margin: 0px 467px;
+    border: 2px red soid;
+    border: 2px red solid;
+    border-radius: 92px;
+    margin-top: 37px;
+    height: 500px;
+}
+
+.content-left h1 {
+    padding: 0px 315px;
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    height: 29vw
+}
+.more-post{
+    display: flex;
+    flex-direction: column;
+}
+.blogpost-mete{
+    /* background-color: teal; */
+    height: 50px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.social:hover{
+    font-weight: bolder;
+}
+.social{
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.contact-content {
+    font-family: var(--font1);
+    height: 80vh;
+}
+ .max-height-1 h1{
+    margin: 0px 135px;
+}
+.contact-box  textarea {
+    margin: 10px 0px;
+    width: 44vw;
+    border: 1px  solid var(--main-bg-colour);
+    border-radius: 5px; 
+    padding: 0px 3px;
+    font-size: 17px;
+}
+.contact-box  input {
+    border: 1px  solid var(--main-bg-colour);
+    padding: 0px 16px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    width: 44vw;
+    font-size: 17px;
+}
+.contact-btn{
+    padding: 0px 259px;
+    
+}
